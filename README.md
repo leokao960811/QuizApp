@@ -2,6 +2,8 @@
 
 解說影片: https://youtu.be/E3dy3Yu2u6s
 
+Render網站： https://quizapp-sg27.onrender.com
+
 這是我決定使用的3個範例整合而成的作業:
 1. ToDo App:
   這個範例建立一個清單，用於確立要完成的事情。

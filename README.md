@@ -2,7 +2,7 @@
 
 解說影片: https://youtu.be/E3dy3Yu2u6s
 
-Render網站： https://quizapp-sg27.onrender.com
+Render網站: https://quizapp-sg27.onrender.com
 
 這是我決定使用的3個範例整合而成的作業:
 1. ToDo App:

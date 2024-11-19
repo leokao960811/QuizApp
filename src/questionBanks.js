@@ -38,9 +38,9 @@ export const bank2 = [
     answers: ["Berlin", "Madrid", "Paris", "Rome"],
     correctAnswer: "Paris",
     incorrectMessages: {
-      Berlin: "Berlin is the capital of Germany.",
-      Madrid: "Madrid is the capital of Spain.",
-      Rome: "Rome is the capital of Italy."
+      Berlin: "Berlin is the capital of Germany.❌",
+      Madrid: "Madrid is the capital of Spain.❌",
+      Rome: "Rome is the capital of Italy.❌"
     },
     explanation: "Paris is known for its art, fashion, and the Eiffel Tower."
   }, 
@@ -51,9 +51,9 @@ export const bank2 = [
     answers: ["Earth", "Mars", "Jupiter", "Venus"],
     correctAnswer: "Jupiter",
     incorrectMessages: {
-      Earth: "Earth is the third planet from the Sun.",
-      Mars: "Mars is the fourth planet.",
-      Venus: "Venus is close to Earth but smaller."
+      Earth: "Earth is the third planet from the Sun.❌",
+      Mars: "Mars is the fourth planet.❌",
+      Venus: "Venus is close to Earth but smaller.❌"
     },
     explanation: "Jupiter is the largest planet in our Solar System."
   },
